@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 # Apply override to all files in the directory
-special-vendored-path/SDL2 linguist-vendored
+SDL2/** linguist-vendored
